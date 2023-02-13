@@ -5,9 +5,9 @@ A simple weather app that displays the temperature, humidity, pressure, and weat
 ## Requirements
 
 Python 3
-Tkinter
-Requests
-Usage
+- Tkinter
+- Requests
+- Usage
 
 1. Clone the repository - heading
 
